@@ -1,0 +1,8 @@
+button{
+    background-color: aquamarine;
+    color: blueviolet;
+    border-radius: 60vh;
+}
+button:hover{
+    color:rgb(255, 127, 127);
+}

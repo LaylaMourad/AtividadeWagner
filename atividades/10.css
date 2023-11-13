@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background: burlywood;
+    background: linear-gradient(173deg,rgb(0, 255, 247) 20%, rgb(217, 230, 118) 80%);
+    background-repeat: no-repeat;
+    height: 1000%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+
+nav{
+    background: rgb(0, 122, 128);
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}
+
+nav ul li{
+    width: 30%;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+nav ul li {
+    text-decoration: none;
+    color: rgb(218, 147, 205);
+}
+.global{
+    background-color: black;
+}
+
+.global .coluna1{
+    height: 30%;
+    background-color: rgb(230, 138, 138);
+}
+
+.global .coluna2{
+    height: 70%;
+    background-color: black;
+}
